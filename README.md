@@ -1,4 +1,4 @@
-## Welcome to Superlógica Code Challenges
+# Welcome to Superlógica Code Challenges
 
 ![alt text](https://lh3.googleusercontent.com/3wivmHywKvp6tOOgrlWgTMw7rZhNKaM1GmrsDC0dHzJDl8WXm3MSGKYKiNOv58DQqSw=s180)
 
