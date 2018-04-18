@@ -15,6 +15,6 @@ Mobile Developers will work in a very challenging project solving hard problems.
 - [ ] Knowledge of Redux
 - [ ] Good to know Axios or Fetch
 - [ ] Good to know Firebase (Realtime Database, Push Notification)
-- [ ] [Challenge](./mobile/challenge.md)
+- [ ] [Challenge](./mobile/README.md)
 
 ### Web Developer (PHP)
