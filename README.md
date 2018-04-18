@@ -2,14 +2,14 @@
 
 ![alt text](https://lh3.googleusercontent.com/3wivmHywKvp6tOOgrlWgTMw7rZhNKaM1GmrsDC0dHzJDl8WXm3MSGKYKiNOv58DQqSw=s180)
 
-### Jobs
+## Jobs
 
-#### Mobile Developer (React Native)
+### Mobile Developer (React Native)
 
-##### Description
+#### Description
 Mobile Developers will work in a very challenging project solving hard problems.
 
-##### Requirements
+#### Requirements
 - [ ] Knowledge of React Native
 - [ ] Knowledge of Flexbox
 - [ ] Knowledge of Redux
@@ -17,4 +17,4 @@ Mobile Developers will work in a very challenging project solving hard problems.
 - [ ] Good to know Firebase (Realtime Database, Push Notification)
 - [ ] [Challenge](./mobile/challenge.md)
 
-#### Web Developer (PHP)
+### Web Developer (PHP)
