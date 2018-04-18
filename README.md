@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to Superlógica Code Challenges
 
-You can use the [editor on GitHub](https://github.com/ErickMaeda/challenges/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![alt text](https://lh3.googleusercontent.com/3wivmHywKvp6tOOgrlWgTMw7rZhNKaM1GmrsDC0dHzJDl8WXm3MSGKYKiNOv58DQqSw=s180)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Jobs
 
-### Markdown
+#### Mobile Developer (React Native)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##### Description
+Mobile Developers will work in a very challenging project solving hard problems.
 
-```markdown
-Syntax highlighted code block
+##### Requirements
+- [ ] Knowledge of React Native
+- [ ] Knowledge of Flexbox
+- [ ] Knowledge of Redux
+- [ ] Good to know Axios or Fetch
+- [ ] Good to know Firebase (Realtime Database, Push Notification)
+- [ ] [Challenge](./mobile/challenge.md)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ErickMaeda/challenges/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Web Developer (PHP)
