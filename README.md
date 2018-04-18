@@ -18,3 +18,8 @@ Mobile Developers will work in a very challenging project solving hard problems.
 - [ ] [Challenge](./mobile/README.md)
 
 ### Web Developer (PHP)
+
+
+## How to apply
+
+Send an email to mobile@superlogica.com containing your Github and LinkedIn with the **challenge** proposed.
