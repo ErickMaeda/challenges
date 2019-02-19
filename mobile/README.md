@@ -4,7 +4,7 @@
 - [ ] home screen must have a logout button.
 - [ ] create a todo **crud** that should **synchronize** with [firebase realtime database](https://firebase.google.com/docs/database)
 - [ ] after fetch the data on realtime database should be shown on **[SectionList](https://facebook.github.io/react-native/docs/sectionlist.html)** or **[FlatList](https://facebook.github.io/react-native/docs/flatlist.html)**
-- [ ] it should be open sourced on your github repo
+- [ ] it must be open sourced on your github repo
 - [ ] use [React Navigation](https://reactnavigation.org/) or [React Native Navigation](https://github.com/wix/react-native-navigation)
 
 # Extras
