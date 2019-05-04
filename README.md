@@ -24,3 +24,5 @@ Coming soon...
 ## How to apply
 
 Send an email to mobile@superlogica.com containing your Github and LinkedIn with the **challenge** proposed.
+
+- Also you need to send us a Signed **APK**. You can upload them in Google Drive and just send a link for download.
